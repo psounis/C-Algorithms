@@ -1,5 +1,5 @@
 # C-Algorithms
-Εδώ είναι τα αρχεία κώδικα που χρησιμοποιούνται στα μαθήματα της C
+Εδώ είναι τα αρχεία κώδικα που χρησιμοποιούνται στα μαθήματα αλγορίθμων της C
 
 # Σύνδεσμος για τα μαθήματα στο youtube
-https://www.youtube.com/playlist?list=PLLMmbOLFy25F31qiV5Gsx8Zzq9QndUZbL
+https://www.youtube.com/playlist?list=PLLMmbOLFy25F0MUELI1Jh3JfrsmSVZhDf
